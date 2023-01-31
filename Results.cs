@@ -39,7 +39,8 @@ namespace TestAmazon
                         break;
                     case "free shipping":
                         if (filters["free shipping"] == "true")
-                            xpath += " and .//ancestor::div[@class='sg-row' and contains(.,'FREE')]]";
+                            xpath += " and ancestor::div[@class='sg-row' and contains(.,'FREE')]]";
+                        else xpath += " and ancestor::div[@class='sg-row' and not(contains(.,'FREE'))]]";
                         break;
                 }
             }
@@ -55,7 +56,7 @@ namespace TestAmazon
             {
                 string title = element.FindElement(By.XPath(".//span[@class='a-size-medium a-color-base a-text-normal']")).Text;
                 string price = element.FindElement(By.XPath(".//span[@class='a-price']")).Text;
-                var url = element.FindElement(By.XPath(".//a[@class='a-size-base a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal']")).GetAttribute("href");
+                string url = element.FindElement(By.XPath(".//a[@class='a-size-base a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal']")).GetAttribute("href");
                 Item i = new Item(title, price, url);
                 results.Add(i);
                 Console.WriteLine(i.tostring());

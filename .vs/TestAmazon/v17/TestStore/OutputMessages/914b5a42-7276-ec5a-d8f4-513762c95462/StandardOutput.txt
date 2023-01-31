@@ -1,0 +1,46 @@
+//span[@class='a-offscreen'and substring(.,2) <20 and substring(.,2) >=5 and ancestor::div[@class='sg-row' and contains(.,'FREE')]]//ancestor::div[@class='a-section a-spacing-small a-spacing-top-small']
+11
+product: Mouse Pad, Computer Mouse Pads with Tropical Leaves Design, Mouse Mat Square Waterproof Mouse Pad Non-Slip Rubber Base MousePads for Office Laptop
+price: $8
+89
+url: https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A035929332YLSE8K6P07G&qualifier=1675183804&id=1038427795083294&widgetName=sp_atf&url=%2FComputer-Tropical-Waterproof-Non-Slip-MousePads%2Fdp%2FB09XD15TQ7%2Fref%3Dsr_1_2_sspa%3Fkeywords%3Dmouse%2Bpad%26qid%3D1675183804%26sr%3D8-2-spons%26psc%3D1
+product: Amazon Basics Mini Gaming Computer Mouse Pad - Black
+price: $5
+94
+url: https://www.amazon.com/AmazonBasics-Mini-Gaming-Computer-Mouse/dp/B06X6H2WF7/ref=sr_1_5?keywords=mouse+pad&qid=1675183804&sr=8-5
+product: Ergonomic Mouse Pad with Wrist Support Rest,[ 20% Larger] Mousepad Gel Wrist Rest , with Coaster Non-Slip & Pain Relief for Computer, Desk, Home&Office-Beach
+price: $10
+99
+url: https://www.amazon.com/Ergonomic-Mousepad-Non-Slip-Computer-Office-Beach/dp/B09CT5T8J2/ref=sr_1_6?keywords=mouse+pad&qid=1675183804&sr=8-6
+product: Hokafenle Square Mouse Pad Flower, Watercolor Rose Floral Premium-Textured Custom Mouse Mat Thick,Washable Mousepads Lycra Cloth, Non-Slip Rubber Base Computer Mousepad Personalized for Wireless Mouse
+price: $8
+89
+url: https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_1?ie=UTF8&adId=A013553110DYP4ALKO39A&qualifier=1675183804&id=1038427795083294&widgetName=sp_mtf&url=%2FHokafenle-Watercolor-Premium-Textured-Mousepads-Personalized%2Fdp%2FB09B3JW38P%2Fref%3Dsr_1_7_sspa%3Fkeywords%3Dmouse%2Bpad%26qid%3D1675183804%26sr%3D8-7-spons%26psc%3D1
+product: Amazon Basics Gel Computer Mouse Pad with Wrist Support Rest - Black
+price: $7
+19
+url: https://www.amazon.com/AmazonBasics-Gel-Mouse-Wrist-Rest/dp/B06X3W3TM4/ref=sr_1_8?keywords=mouse+pad&qid=1675183804&sr=8-8
+product: Mouse Pad, Christian Bible Verses Mouse Pad, Square Waterproof Mouse Pad Non-Slip Rubber Base MousePads for Office Laptop, 9.5"x7.9"x0.12" Inch(Be Still)
+price: $8
+99
+url: https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_1?ie=UTF8&adId=A00999133US9YO1K9M8C6&qualifier=1675183804&id=1038427795083294&widgetName=sp_mtf&url=%2FChristian-Glitter-Waterproof-Non-Slip-MousePads%2Fdp%2FB08V8BP2M8%2Fref%3Dsr_1_12_sspa%3Fkeywords%3Dmouse%2Bpad%26qid%3D1675183804%26sr%3D8-12-spons%26psc%3D1
+product: K KNODEL Desk Mat, Mouse Pad, Desk Pad, Waterproof Desk Mat for Desktop, Leather Desk Pad for Keyboard and Mouse, Desk Pad Protector for Office and Home (Green, 31.5" x 15.7")
+price: $13
+99
+url: https://www.amazon.com/KNODEL-Waterproof-Desktop-Keyboard-Protector/dp/B0868KH57T/ref=sr_1_14?keywords=mouse+pad&qid=1675183804&sr=8-14
+product: Inspirational Quote Mouse Pad, Stay Positive Work Hard and Make It Happen Motivational Mouse Pad for Women, Square Waterproof Mouse Pad Non-Slip Rubber Base MousePads for Office Laptop
+price: $8
+89
+url: https://www.amazon.com/Inspirational-Positive-Motivational-Waterproof-MousePads/dp/B0993F2BTB/ref=sr_1_16?keywords=mouse+pad&qid=1675183804&sr=8-16
+product: Armanza Mouse Pad, Cyan Blue Marble Mouse Pad, Washable Square Cloth Mousepad for Office Laptop, Non-Slip Rubber Base Mouse Pads for Wireless Mouse, Computer Mouse Pads for Desk
+price: $8
+99
+url: https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_1?ie=UTF8&adId=A01066053MVP84HGBL62S&qualifier=1675183804&id=1038427795083294&widgetName=sp_mtf&url=%2FArmanza-Washable-Mousepad-Non-Slip-Wireless%2Fdp%2FB09NFJP8C8%2Fref%3Dsr_1_17_sspa%3Fkeywords%3Dmouse%2Bpad%26qid%3D1675183804%26sr%3D8-17-spons%26psc%3D1
+product: RGB Mousepad Led Mouse Pad, Large Mouse Pad,Led and Big Mouse mat
+price: $13
+99
+url: https://www.amazon.com/RGB-Mousepad-Led-Mouse-Large/dp/B08QFB5KVS/ref=sr_1_19?keywords=mouse+pad&qid=1675183804&sr=8-19
+product: Armanza Mouse Pad, Cute Mousepad with Design, Round Grass Leaves Mouse Mat, Small Non-Slip Rubber Gaming Mouse Pads, Office Home Personalized Mouse Pad
+price: $8
+89
+url: https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg1_1?ie=UTF8&adId=A01562206KDV0B7X7891&qualifier=1675183804&id=1038427795083294&widgetName=sp_btf&url=%2FArmanza-Mousepad-Design-Non-Slip-Personalized%2Fdp%2FB09QBWYFV1%2Fref%3Dsr_1_22_sspa%3Fkeywords%3Dmouse%2Bpad%26qid%3D1675183804%26sr%3D8-22-spons%26psc%3D1

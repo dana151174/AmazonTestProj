@@ -22,8 +22,8 @@ namespace TestAmazon
             driver = BrowserFactory.Driver;
             amazon = new Amazon(driver);
             filters = new Dictionary<string, string>();
-            filters["price lower then"] = "100";
-            filters["price higher or eauals"] = "50";
+            filters["price lower then"] = "20";
+            filters["price higher or eauals"] = "5";
             filters["free shipping"] = "true";
         }
 
